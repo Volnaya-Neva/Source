@@ -4,3 +4,5 @@
 
 /.vs/Source/FileContentIndex
 /.vs/Source/v17
+/Build/UI/node_modules/.cache
+/Build/UI/node_modules
